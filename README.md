@@ -5,6 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 💻 I’m currently learning QA Manual Engineer.
+- 💻 I’m QA Manual Engineer from Tver.
+- 📧 Reach me by email: <irina_zelenova89@mail.ru>, Telegram <https://t.me/@Irina_Bushmanova89>.
 
 
